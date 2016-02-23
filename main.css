@@ -1,0 +1,84 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  max-width: 120px;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
+  font-weight: bold;
+}
+
+body {
+  background-color: lightyellow;
+  margin: 0 0 0 50px;
+}
+
+#learn-more a {
+  color: blue;
+}
+
+.subtitle {
+  font-style: italic;
+}
+
+ul li {
+  list-style: none;
+}
+
+p {
+  max-width:85%;
+  text-align: justify;
+}
+
+.dog-breed {
+  background-color:yellow;
+  margin: 30px 0 70px 0;
+  padding 10px 0 10px 0;
+}
+
+.dog-breed .div-left {
+  float: left;
+  padding: 0 15px 10px 0;
+}
+
+#learn-more {
+  margin: 0 0 50px 0;
+  text-align:center;
+}
+
+#gallery {
+  background-color:green;
+  max-width:80%;
+  margin:auto;
+}
+
+#gallery img {
+  max-height:150px;
+  max-width:150px;
+}
+
+#gallery .dog-pic, #gallery .dog-pic p {
+  background-color:red;
+  text-align:center;
+  max-height:200px;
+  max-width:200px;
+}
+
+#gallery .dog-pic {
+    margin: 15px auto;
+    padding: 15px;
+}
+
+#gallery_title h2, #gallery_title p {
+  text-align:center;
+}
+
+footer {
+  background-color:purple;
+}
+
+
